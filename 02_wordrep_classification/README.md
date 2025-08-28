@@ -1,4 +1,4 @@
-### Lecture 2: Word representation and text classification
+### Lecture 2: Learned representations
 
 1. `tokenization.ipynb`: covers modern tokenization methods
 2. `bow.ipynb`: train bag-of-words text classifier variants to classify the sentiment of tweets
